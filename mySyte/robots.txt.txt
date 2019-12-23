@@ -1,0 +1,9 @@
+User-agent:*
+Disallow: /top.html
+Disallow: /menu.html
+Disallow: /main.html
+
+User-agent:*
+Allow: /index.html
+
+Sitemap: https://supersupermax.github.io/MyWebsite/index.html
